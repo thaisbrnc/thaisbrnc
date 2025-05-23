@@ -1,6 +1,6 @@
 <p align="left">
   <b>Sobre mim</b> 👩‍💻<br>
-  <br>Sou desenvolvedora back-end com experiência em construção de aplicações utilizando C#, JavaScript, HTML e CSS. Tenho atuação no desenvolvimento de APIs, integração de sistemas, além de projetos com chatbots inteligentes e soluções baseadas em inteligência artificial.<br>
+  <br>Sou desenvolvedora full-stack com experiência em construção de aplicações utilizando C#, JavaScript, HTML e CSS. Tenho atuação no desenvolvimento de APIs, integração de sistemas, além de projetos com chatbots inteligentes e soluções baseadas em inteligência artificial.<br>
   <br>Meu foco está em escrever código limpo, escalável e eficiente, sempre buscando entregar valor por meio da tecnologia. Estou em constante aprendizado e sempre aberta a novos desafios que envolvam inovação e tecnologia.
 </p>
 
